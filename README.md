@@ -1,13 +1,14 @@
-
 **Economic Impact of Climatic Factors on the Health Sector in Brazil - Scientific Essay**
 Carlos Souto dos Santos Filho∗ (author)
 ∗Statistics Student – UNESP, carlos.souto@unesp.br CV: lattes.cnpq.br/1205287661151474 
+
 **1. Introduction**
 For a long time, the importance of greenhouse gas emissions related to food production, energy systems, and global economic impact was neglected. Interest in the subject gained prominence in 2006 with the publication of the "The Stern Review on the Economics of Climate Change" by Nicholas Stern. This review detailed the economic impacts of climate change and emphasized that mitigating greenhouse gas emissions and adaptation were economically viable strategies for the future of humanity. The author highlighted the influence of climate change on society, comparing it to the damages of two perennial world wars in the 20th century.
 Interest in the subject has grown exponentially, with publications focusing on quantifying and monetizing the effects of climatic variables on agriculture, forestry, water resources, coastal zones, energy consumption, air quality, and human health.
 Another growing area of investigation is the economic impact associated with climate on health. A classic meta-analysis study associated average temperatures with mortality rates from respiratory and cardiovascular diseases. Other researchers evaluated the influence of climate on other infectious diseases using statistical models. Patz, Campbell-Lendrum, Holloway, Foley (2005) conducted predictive studies on health risks under future climate change projections, indicating increases in morbidity and mortality on a global scale.
 This essay aimed to estimate cases of cardiovascular disease in a Brazilian region based on climatic factors using a linear regression model, assess treatment costs, forecast national population growth, and explore future climate change scenarios.
-2. Methodology
+
+**2. Methodology**
 2.1 Information Sources
 Information sources are publicly accessible and categorized by sector:
 _▪ Public Health:_
