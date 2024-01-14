@@ -9,6 +9,7 @@ Another growing area of investigation is the economic impact associated with cli
 This essay aimed to estimate cases of cardiovascular disease in a Brazilian region based on climatic factors using a linear regression model, assess treatment costs, forecast national population growth, and explore future climate change scenarios.
 
 ##**2. Methodology**
+
 ###2.1 Information Sources
 Information sources are publicly accessible and categorized by sector:
 _▪ Public Health:_
@@ -22,7 +23,9 @@ https://dataexplorer.wittgensteincentre.org/wcde-v2/
 _▪ Brazilian Deprivation Index (IBP)_
 >> Cidacs, available at:
 https://docs.google.com/forms/d/e/1FAIpQLScG7fffQVuZE_yCSweeQ06iNr2jZx7AG4kuX8iziPY7Gee18w/viewform
+
 ##2.2 Data
+
 ###2.2.1 Historical Data
 Files in .csv format were obtained from the DATASUS database on:
 ▪ Hospital Morbidity - by place of hospitalization
@@ -64,11 +67,13 @@ From the “Wittgenstein Center Data Explorer” database, files in .csv format 
 ▪ Brazilian Deprivation Index
 - big_region_name,
 - measure_1f_12
+  
 ###2.2.2 Forecasts (2020-2100)
 From the CLIMBra database
 >> “Catchment data”
 - CABRa_id (streamflow gauge)
 - Scenario SSP2 | 4.5
 - Maximum Temperature
+  
 ##2.3 Statistical Analysis
 Exploratory Data Analysis (EDA) was conducted, followed by a simple and multiple linear regression model following the Gauss-Markov paradigms and the "LINE" protocol. More details on the procedures can be found on the GitHub profile. The results were obtained using the R software.
